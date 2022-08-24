@@ -14,4 +14,4 @@ A Birthday Remider App which displays individuals names and their respective bir
 In order to start this application, follow these steps
 
 1. Install dependencies with `npm install`
-3. Start the project - `npm start`
+2. Start the project - `npm start`
